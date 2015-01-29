@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adobe_products">
+        <item>Customer Name 1</item>
+        <item>Customer Name 2</item>
+        <item>Customer Name 3</item>
+        <item>Customer Name 4</item>
+        <item>Customer Name 5</item>
+        <item>Customer Name 6</item>
+        <item>Customer Name 7</item>
+        <item>Customer Name 8</item>
+        <item>Customer Name 9</item>
+        <item>Customer Name 0</item>
+    </string-array>
+</resources>
