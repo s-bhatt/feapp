@@ -68,8 +68,7 @@ public class SingleListItem extends Activity {
 
 
                 // String uri = String.format(Locale.ENGLISH, "geo:%f,%f", 10.10, 23.23);
-                //String label = "Cinnamon & Toast";
-
+//                String label = "Cinnamon & Toast";
                 //first working code with single location
                /* String uriBegin = "geo:12.964831,77.597466";
                 String query = "12.964831, 77.597466";
