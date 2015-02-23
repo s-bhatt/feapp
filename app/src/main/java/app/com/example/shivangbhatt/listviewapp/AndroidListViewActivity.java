@@ -57,7 +57,6 @@ public class AndroidListViewActivity extends ListActivity {
                 String product = ((TextView) view).getText().toString();
 
                 Intent i = new Intent(getApplicationContext(), SingleListItem.class);
-
                 i.putExtra("product", product);
                 startActivity(i);
 
